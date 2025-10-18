@@ -89,8 +89,8 @@ RSS feed and then creates a series of plain files. Each file is titled
 with the date and post title, and the post content is written to the 
 file in a way that Hugo -should- be able to understand. 
 
-I originally created this for the purpose of automatically mirroring a W3 blog
-to a gopher server, but modified it to create files for hugo instead.
+I originally created this for the purpose of automatically mirroring a 
+dotclear blog to a gopherhole, but modified it to create files for hugo instead.
 
 USAGE
 
